@@ -14,7 +14,7 @@
 	var options = {
 		"filing-colours": true,
 		"rubber-stamp": true,
-		"double-sided": true,
+		"double-sided": false,
 		"white-backs": true
 	};
 
